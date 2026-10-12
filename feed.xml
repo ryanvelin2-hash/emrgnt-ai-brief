@@ -4,7 +4,7 @@
 <atom:link href="https://podcast.emrgnt.ai/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>© 2026 EMRGNT</copyright>
 <description>AI news for filmmakers, editors and post-production professionals, from EMRGNT (https://emrgnt.ai), a virtual film studio for films made by humans using AI tools. Each episode briefs you on the generative AI stories that matter for film, TV and post. Voiced with AI voices.</description><itunes:summary>AI news for filmmakers, editors and post-production professionals, from EMRGNT (https://emrgnt.ai), a virtual film studio for films made by humans using AI tools. Each episode briefs you on the generative AI stories that matter for film, TV and post. Voiced with AI voices.</itunes:summary>
-<itunes:author>EMRGNT</itunes:author><itunes:owner><itunes:name>EMRGNT</itunes:name></itunes:owner>
+<itunes:author>EMRGNT</itunes:author><itunes:owner><itunes:name>EMRGNT</itunes:name><itunes:email>podcast@emrgnt.ai</itunes:email></itunes:owner>
 <itunes:image href="https://podcast.emrgnt.ai/cover.jpg"/>
 <image><url>https://podcast.emrgnt.ai/cover.jpg</url><title>EMRGNT AI Brief</title><link>https://emrgnt.ai</link></image>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
