@@ -1,0 +1,45 @@
+[
+ {
+  "id": "20261012-124134",
+  "title": "EMRGNT AI Brief: Pilot, Monday October 12",
+  "desc": "This is EMRGNT AI Brief, your quick guide to the AI news that matters for filmmakers, editors and post-production professionals. I'm Brian. A quick note before we start: this show is produced with AI voices. Today is Monday, October twelfth, and we've got five stories for you.\n\nStory one. Netflix has now used AI in some form on around three hundred titles. That figure came from Sung Q Lee, who runs production for Netflix in Asia-Pacific, speaking at the Busan International Film Festival, as reported by The Hollywood Reporter and Variety. He listed previs, production design, set-dressing concep",
+  "len": 5340306,
+  "dur": 333,
+  "date": "Mon, 12 Oct 2026 12:41:35 +0200",
+  "notes": {
+   "intro": "The pilot episode of EMRGNT AI Brief: Netflix's AI use, AI editing tools moving into chat and real timelines, Vidu Q4 Preview, an XPRIZE-winning AI trailer heading for a feature, and lessons on AI agent guardrails. Produced with AI voices. More at https://emrgnt.ai",
+   "stories": [
+    {
+     "title": "Netflix has used AI on about 300 titles (The Hollywood Reporter)",
+     "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
+     "line": "plus Variety's report on Kang Yun-sung's roughly 40% savings: https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/"
+    },
+    {
+     "title": "Higgsfield Katana runs inside Claude via MCP (TAU-HOME)",
+     "url": "https://tau-home.com/en/post/higgsfield-katana-claude-motion-video-editing-mcp/",
+     "line": "also invideo Agentic Extend: https://invideo.io/news/introducing-agentic-extend-invideo-editor/ and Voyager (Founderland): https://www.founderland.ai/articles/voyager-launches-ai-harness-for-video-production-tools-mv2wdjer"
+    },
+    {
+     "title": "Vidu Q4 Preview (Unite.AI)",
+     "url": "https://www.unite.ai/vidu-releases-q4-preview-of-next-generation-flagship-ai-video-model/",
+     "line": "2K/4K, 10-bit, up to 15 image references"
+    },
+    {
+     "title": "AI trailer wins the $2.5M Future Vision XPRIZE (Arts & Voices)",
+     "url": "https://artsandvoices.com/articles/2-5-million-future-vision-xprize-goes-to-ai-generated-trailer-3ca692e0",
+     "line": "heading for a roughly $10M feature"
+    },
+    {
+     "title": "Anthropic discloses unintended agent actions (ThreatFrontier)",
+     "url": "https://threatfrontier.com/articles/anthropic-claude-unintended-actions-real-websites",
+     "line": "and US officials on incident reporting (Rainvent): https://rainvent.ai/genai-daily-october-11-2026-anthropic-pulls-internet-from-evals-white-house-makes-incident-reporting-mandatory-firmus-scraps-5b-ipo/"
+    },
+    {
+     "title": "Bonus: Final Cut Pro 13 leaks (AppleInsider)",
+     "url": "https://appleinsider.com/articles/26/10/01/final-cut-pro-13-leaks-ahead-of-announcement-with-several-new-features",
+     "line": "Pixelmator round-trip, Natural Motion Blur, keyframe easing"
+    }
+   ]
+  }
+ }
+]
