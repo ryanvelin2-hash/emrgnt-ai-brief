@@ -41,5 +41,43 @@
     }
    ]
   }
+ },
+ {
+  "id": "20261014-091543",
+  "title": "EMRGNT AI Brief: Wednesday October 14",
+  "desc": "This is EMRGNT AI Brief, your quick guide to the AI news that matters for filmmakers, editors and post-production professionals. I'm Brian. A quick note before we start: this show is produced with AI voices. Today is Wednesday, October fourteenth, and we've got five stories for you.\n\nStory one. Netflix's own VFX house is spelling out how it actually uses generative AI on real shows. At Turin's View Conference, Mohsen Mousavi, vice president of virtual pioneering at Eyeline Studios, described what the studio calls hybrid production: live-action photography, conventional visual effects and gener",
+  "len": 5770387,
+  "dur": 360,
+  "date": "Wed, 14 Oct 2026 09:16:59 +0300",
+  "notes": {
+   "intro": "EMRGNT AI Brief for Wednesday, October 14: Netflix Eyeline's hybrid VFX pipeline, Hollywood's shifting AI stance and the Bitcoin budget cut, Reallusion partnering with Escape.AI for 3D-controlled generative film and CTV distribution, ArtCraft's open-source FilmCraft NLE, and Vivix W1's real-time video model. Produced with AI voices. More at https://emrgnt.ai",
+   "stories": [
+    {
+     "title": "How AI is used at Netflix Eyeline Studios (Variety)",
+     "url": "https://variety.com/2026/artisans/global/ai-use-netflix-eyeline-studios-vfx-mohsen-mousavi-view-1236910043/",
+     "line": "hybrid production, post-shoot camera and lighting, Brazil '70 crowds"
+    },
+    {
+     "title": "Hollywood embraces AI tools (Variety)",
+     "url": "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/",
+     "line": "Liman's Bitcoin cut from ~$200M to ~$70M; Soderbergh; Academy and Cannes limits"
+    },
+    {
+     "title": "Reallusion and Escape.AI partner (befores & afters)",
+     "url": "https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/",
+     "line": "3D-to-AI control layer; CTV reach claimed at 400M+ devices"
+    },
+    {
+     "title": "ArtCraft FilmCraft open-source Premiere alternative (CineD)",
+     "url": "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/",
+     "line": "Rust + Claude Opus 5.5; MCP agent control; ~56% ready for real work"
+    },
+    {
+     "title": "Vivix W1 streaming real-time video model (Vivix)",
+     "url": "https://vivix.ai/vivix-w1",
+     "line": "~30B active params; $0.003/sec promo through Oct 31; also https://aicoder.com/news/news-20261011-vivix-w1-streaming-realtime-video-model"
+    }
+   ]
+  }
  }
 ]
